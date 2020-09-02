@@ -1,0 +1,7 @@
+{
+    "projectName": "ReentrancySingleFunction",
+    "namespace": "ReentrancySingleFunction.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
